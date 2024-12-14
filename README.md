@@ -64,7 +64,7 @@ cd dapp-card-store/demo
 cd ui && yarn start
 ```
 
-## Using the Dapp
+### Using the Dapp
 1. `agoric open` will have opened your wallet at http://127.0.0.1:8000/
 
 2. `yarn start` will open the dapp at http://127.0.0.1:3000. The dapp will ask you to switch to the wallet to `Accept` the `Dapp Connection`.
